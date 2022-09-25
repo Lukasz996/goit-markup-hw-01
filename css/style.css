@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	background-color: white;
+}
+/* Logo */
+
+.color-logo {
+    color: #2196f3;
+}
+/* Nawigacja */
+
+.menu {
+	position: relative;
+	width: 1600px;
+	height: 80px;
+	left: 0;
+	top: 0;
+	background-color: #fff;
+}
+.nav-logo{
+    position: relative;
+    width: 145px;
+    height: 31px;
+    top: 24px;
+    left: 215px;
+}
+
+
+/* header */
+
+header {
+	position: absolute;
+	width: 1600px;
+	height: 600px;
+	top: 0;
+	left: 0;
+	background-color: #2f303a;
+}
